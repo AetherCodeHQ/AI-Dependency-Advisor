@@ -23,12 +23,12 @@ Every developer needs ai dependency advisor — but existing tools are either to
 
 ## Features
 
-- **Dependency vulnerability scanning** — Dependency vulnerability scanning
-- **Update recommendations with compatibility checks** — Update recommendations with compatibility checks
-- **License compliance analysis** — License compliance analysis
-- **Dependency tree visualization** — Dependency tree visualization
-- **Alternative package suggestions** — Alternative package suggestions
-- **Support for Go, Node.js, Python, Java** — Support for Go, Node.js, Python, Java
+- Dependency vulnerability scanning
+- Update recommendations with compatibility checks
+- License compliance analysis
+- Dependency tree visualization
+- Alternative package suggestions
+- Support for Go, Node.js, Python, Java
 
 ## Quick Start
 
