@@ -7,7 +7,7 @@
 ![Lint](https://img.shields.io/badge/GolangCI--Lint-Passing-00ADD8?style=for-the-badge)
 ![Dependabot](https://img.shields.io/badge/Dependabot-Enabled-025E9C?style=for-the-badge&logo=dependabot&logoColor=white)
 
-> AI-Dependency-Advisor - Open source tool by Qyroxen
+> AI-Dependency-Advisor - Open source tool by AetherCodeHQ
 
 `ai` `cli` `dependencies` `developer-tools` `golang` `open-source`
 
@@ -30,7 +30,7 @@
 
 ### Install from source
 ```bash
-git clone https://github.com/Qyroxen/AI-Dependency-Advisor.git
+git clone https://github.com/AetherCodeHQ/AI-Dependency-Advisor.git
 cd AI-Dependency-Advisor
 go build -o AI-Dependency-Advisor .
 ```
@@ -95,7 +95,7 @@ go build -o AI-Dependency-Advisor .
 
 ```bash
 # Clone the repo
-git clone https://github.com/Qyroxen/AI-Dependency-Advisor.git
+git clone https://github.com/AetherCodeHQ/AI-Dependency-Advisor.git
 cd AI-Dependency-Advisor
 
 # Build
@@ -123,5 +123,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Built with ❤️ by <a href="https://github.com/Qyroxen">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
+  Built with ❤️ by <a href="https://github.com/AetherCodeHQ">AetherCode</a> • <a href="https://github.com/AetherCode-Core">AetherCode-Core</a>
 </p>
